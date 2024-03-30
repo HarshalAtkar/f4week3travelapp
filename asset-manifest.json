@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/f4week3travelapp/static/css/main.266c465a.css",
+    "main.js": "/f4week3travelapp/static/js/main.8f4b20e3.js",
+    "index.html": "/f4week3travelapp/index.html",
+    "main.266c465a.css.map": "/f4week3travelapp/static/css/main.266c465a.css.map",
+    "main.8f4b20e3.js.map": "/f4week3travelapp/static/js/main.8f4b20e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.266c465a.css",
+    "static/js/main.8f4b20e3.js"
+  ]
+}
